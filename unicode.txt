@@ -1,0 +1,171 @@
+0000-001F C0控制符 (C0 Control)
+0020-007F 基本拉丁文 (Basic Latin)
+0080-009F C1控制符 (C1 Control)
+00A0-00FF 拉丁文补充 1 (Latin 1 Supplement)
+0100-017F 拉丁文扩展-A (Latin Extended-A) [欧洲]
+0180-024F 拉丁文扩展-B (Latin Extended-B) [欧洲]
+0250-02AF 国际音标扩展 (IPA Extensions) [欧洲]
+02B0-02FF 空白修饰字母 (Spacing Modifiers) [欧洲]
+0300-036F 组合变音符号 (Combining Diacritical Marks) [欧洲]
+0370-03FF 希腊文及科普特文 (Greek and Coptic) [欧洲]
+03E2-03EF 在希腊语块的科普特文 (Coptic in Greek block) [非洲]
+0400-04FF 西里尔文 (Cyrillic) [欧洲]
+0500-052F 西里尔文补充 (Cyrillic Supplement) [欧洲]
+0530-058F 亚美尼亚文 (Armenian) [欧洲]
+0590-05FF 希伯来文 (Hebrew) [中东]
+0600-06FF 阿拉伯文 (Arabic) [中东]
+0700-074F 叙利亚文 (Syriac) [中东]
+0750-077F 阿拉伯文补充 (Arabic Supplement) [中东]
+0780-07BF 马尔代夫语 (Thaana) [南亚]
+07C0-07FF 西非书面语言 (N'Ko) [非洲]
+0800-083F 撒玛利亚语 (Samaritan) [中东]
+0840-085F 曼底安语 (Mandaic) [中东]
+0860-086F 叙利亚文增补 (Syriac Supplement) [中东]
+0870-089F 阿拉伯文扩展-B (Arabic Extended-B) [中东]
+08A0-08FF 阿拉伯文扩展-A (Arabic Extended-A) [中东]
+0900-097F 天城文（梵文） (Devanagari) [南亚]
+0980-09FF 孟加拉语和阿萨姆语 (Bengali and Assamese) [南亚]
+0A00-0A7F 锡克教文 (Gurmukhi) [南亚]
+0A80-0AFF 古吉拉特文 (Gujarati) [南亚]
+0B00-0B7F 奥里亚文 (Oriya) [南亚]
+0B80-0BFF 泰米尔文 (Tamil) [南亚]
+0C00-0C7F 泰卢固文 (Telugu) [南亚]
+0C80-0CFF 卡纳达文 (Kannada) [南亚]
+0D00-0D7F 马拉雅拉姆语 (Malayalam) [南亚]
+0D80-0DFF 僧伽罗语 (Sinhala) [南亚]
+0E00-0E7F 泰文 (Thai) [东南亚]
+0E80-0EFF 老挝文 (Lao) [东南亚]
+0F00-0FFF 藏文 (Tibetan) [中亚]
+1000-109F 缅甸语 (Myanmar) [东南亚]
+10A0-10FF 格鲁吉亚语 (Georgian) [欧洲]
+1100-11FF 朝鲜文 (Hangul Jamo)
+1200-137F 埃塞俄比亚文 (Ethiopic) [非洲]
+1380-139F 埃塞俄比亚文补充 (Ethiopic Supplement) [非洲]
+13A0-13FF 切罗基语 (Cherokee) [北美]
+1400-167F 统一加拿大土著语音节 (Unified Canadian Aboriginal Syllabics)
+1400-167F 统一加拿大土著语音节 (Unified Canadian Aboriginal Syllabics)
+1680-169F 欧甘文 (Ogham) [欧洲]
+16A0-16FF 如尼文 (Runic) [欧洲]
+1700-171F 塔加路语 (Tagalog) [东南亚]
+1720-173F 汉努诺奥文 (Hanunoo) [东南亚]
+1740-175F 布锡文 (Buhid) [东南亚]
+1760-177F 塔格巴努亚文 (Tagbanwa) [东南亚]
+1780-17FF 高棉语 (Khmer) [东南亚]
+1800-18AF 蒙古文 (Mongolian) [中亚]
+18B0-18FF UCAS扩展 (UCAS Extended) [北美]
+1900-194F 林布文 (Limbu) [南亚]
+1950-197F 德宏泰文 (Tai Le) [东南亚]
+1980-19DF 新傣仂文 (New Tai Lue) [东南亚]
+19E0-19FF 高棉语符号 (Kmer Symbols) [东南亚]
+1A00-1A1F 布吉语 (Buginese) [东南亚]
+1A20-1AAF 北部泰语 (Tai Tham) [东南亚]
+1AB0-1AFF 结合变音符号扩展 (Combining Diacritical Marks Extended) [欧洲]
+1B00-1B7F 巴厘语 (Balinese) [东南亚]
+1B80-1BBF 巽他语 (Sundanese) [东南亚]
+1BC0-1BFF 巴塔克语 (Batak) [东南亚]
+1C00-1C4F 雷布查语 (Lepcha) [南亚]
+1C50-1C7F OlChiki字母 (Ol Chiki) [南亚]
+1C80-1C8F 西里尔文扩展-C (Cyrillic Extended-C) [欧洲]
+1C90-1CBF 格鲁吉亚语扩展 (Georgian Extended) [欧洲]
+1CC0-1CCF 巽他语补充 (Sundanese Supplement) [东南亚]
+1CD0-1CFF 吠陀扩展 (Vedic Extensions) [南亚]
+1D00-1D7F 语音学扩展 (Phonetic Extensions) [欧洲]
+1D80-1DBF 语音学扩展补充 (Phonetic Extensions Supplement) [欧洲]
+1DC0-1DFF 组合变音符号补充 (Combining Diacritical Marks Supplement) [欧洲]
+1E00-1EFF 拉丁文扩展附加 (Latin Extended Additional) [欧洲]
+1F00-1FFF 希腊语扩展 (Greek Extended) [欧洲]
+2000-206F 常用标点 (General Punctuation)
+2070-209F 上标及下标 (Superscripts and Subscripts) [欧洲]
+20A0-20CF 货币符号 (Currency Symbols)
+20D0-20FF 组合符号的变音符号 (Combining Diacritical Marks for Symbols) [欧洲]
+2100-214F 字母式符号 (Letterlike Symbols)
+2150-218F 数字形式 (Number Form)
+2190-21FF 箭头 (Arrows)
+2200-22FF 数学运算符 (Mathematical Operator)
+2300-23FF 杂项工业符号 (Miscellaneous Technical)
+2400-243F 控制图片 (Control Pictures)
+2440-245F 光学识别符 (Optical Character Recognition)
+2460-24FF 封闭式字母数字 (Enclosed Alphanumerics)
+2500-257F 制表符 (Box Drawing)
+2580-259F 方块元素 (Block Element)
+25A0-25FF 几何图形 (Geometric Shapes)
+2600-26FF 杂项符号 (Miscellaneous Symbols)
+2700-27BF 印刷符号 (Dingbats)
+27C0-27EF 杂项数学符号-A (Miscellaneous Mathematical Symbols-A)
+27F0-27FF 补充箭头-A (Supplemental Arrows-A)
+2800-28FF 盲文图案 (Braille Patterns)
+2900-297F 补充箭头-B (Supplemental Arrows-B)
+2980-29FF 杂项数学符号-B (Miscellaneous Mathematical Symbols-B)
+2A00-2AFF 补充数学运算符 (Supplemental Mathematical Operator)
+2B00-2BFF 杂项符号和箭头 (Miscellaneous Symbols and Arrows)
+2C00-2C5F 格拉哥里文 (Glagolitic) [欧洲]
+2C60-2C7F 拉丁文扩展-C (Latin Extended-C) [欧洲]
+2C80-2CFF 科普特文 (Coptic) [非洲]
+2D00-2D2F 格鲁吉亚语补充 (Georgian Supplement) [欧洲]
+2D30-2D7F 提非纳文 (Tifinagh)
+2D80-2DDF 埃塞俄比亚文扩展 (Ethiopic Extended) [非洲]
+2DE0-2DFF 西里尔文扩展-A (Cyrillic Extended-A) [欧洲]
+2E00-2E7F 补充标点符号 (Supplemental Punctuation)
+2E80-2EFF 中日韩部首补充 (CJK Radicals Supplement)
+2F00-2FDF 康熙字典部首 (Kangxi Radicals)
+2FF0-2FFF 表意文字描述符 (Ideographic Description Characters) [东亚]
+3000-303F 中日韩符号和标点 (CJK Symbols and Punctuation)
+3040-309F 日文平假名 (Hiragana)
+30A0-30FF 日文片假名 (Katakana)
+3100-312F 注音符号 (Bopomofo) [东亚]
+3130-318F 朝鲜文兼容字母 (Hangul Compatibility Jamo)
+3190-319F 象形字注释标志 (Kanbun) [东亚]
+31A0-31BF 注音符号扩展 (Bopomofo Extended) [东亚]
+31C0-31EF 中日韩笔画 (CJK Strokes)
+31F0-31FF 日文片假名注音扩展 (Katakana Phonetic Extensions)
+3200-32FF 封闭式中日韩文字和月份 (Enclosed CJK Letters and Months)
+3300-33FF 中日韩兼容 (CJK Compatibility)
+3400-4DBF 中日韩统一表意文字扩展 A (CJK Unified Ideographs Extension A)
+4DC0-4DFF 易经六角符号 (Yijing Hexagram Symbols)
+4E00-9FFF 中日韩统一表意文字 (CJK Unified Ideographs)
+A000-A48F 彝文音节 (Yi Syllables)
+A490-A4CF 彝文字根 (Yi Radicals)
+A4D0-A4FF 老傈僳文 (Lisu) [东亚]
+A500-A63F 瓦伊语 (Vai) [非洲]
+A640-A69F 西里尔文扩展-B (Cyrillic Extended-B) [欧洲]
+A6A0-A6FF 巴姆穆文 (Bamum) [非洲]
+A700-A71F 声调修饰字母 (Modifier Tone Letters) [欧洲]
+A720-A7FF 拉丁文扩展-D (Latin Extended-D) [欧洲]
+A800-A82F SylotiNagri字母 (Syloti Nagri) [南亚]
+A830-A83F 常见的印度数字形式 (Common Indic Number Forms) [南亚]
+A840-A87F 八思巴文 (Phags-pa) [中亚]
+A880-A8DF 索拉什特拉语 (Saurashtra) [南亚]
+A8E0-A8FF 天城文（梵文）扩展 (Devanagari Extended) [南亚]
+A900-A92F 克耶黎字母 (Kayah Li) [东南亚]
+A930-A95F 拉让文 (Rejang) [东南亚]
+A960-A97F 朝鲜文扩展-A (Hangul Jamo Extended-A)
+A980-A9DF 爪哇语 (Javanese) [东南亚]
+A9E0-A9FF 缅甸语扩展-B (Myanmar Extended-B) [东南亚]
+AA00-AA5F 占族语 (Cham) [东南亚]
+AA60-AA7F 缅甸语扩展-A (Myanmar Extended-A) [东南亚]
+AA80-AADF 越南泰语 (Tai Viet) [东南亚]
+AAE0-AAFF 曼尼普尔语扩展 (Meetei Mayek Extensions) [南亚]
+AB00-AB2F 埃塞俄比亚文扩展-A (Ethiopic Extended-A) [非洲]
+AB30-AB6F 拉丁文扩展-E (Latin Extended-E) [欧洲]
+AB70-ABBF 切罗基语补充 (Cherokee Supplement) [北美]
+ABC0-ABFF 曼尼普尔语 (Meetei Mayek) [南亚]
+AC00-D7AF 朝鲜文音节 (Hangul Syllables)
+D7B0-D7FF 朝鲜文扩展-B (Hangul Jamo Extended-B)
+D800-DBFF UTF-16高代理区 (High-half zone of UTF-16)
+DC00-DFFF UTF-16低代理区 (Low-half zone of UTF-16)
+E000-F8FF 私人使用区域 (Private Use Zone)
+F900-FAFF 中日韩兼容表意文字 (CJK Compatibility Ideographs)
+FB00-FB06 拉丁文连字 (Latin Ligatures) [欧洲]
+FB13-FB17 亚美尼亚文连字 (Armenian Ligatures) [欧洲]
+FB1D-FB4F 希伯来语表达形式 (Hebrew Presentation Forms) [中东]
+FB50-FDFF 阿拉伯文变形显现形式-A (Arabic Presentation Forms-A) [中东]
+FE00-FE0F 变体选择符 (Variation Selector)
+FE10-FE1F 竖排形式 (Vertical Forms)
+FE20-FE2F 组合用半符号 (Combining Half Marks) [欧洲]
+FE30-FE4F 中日韩兼容形式 (CJK Compatibility Forms)
+FE50-FE6F 小型变体形式 (Small Form Variants)
+FE70-FEFF 阿拉伯文变形显现形式-B (Arabic Presentation Form-B) [中东]
+FF00-FF5E 全角拉丁文 (Fullwidth Latin Letters) [欧洲]
+FF65-FF9F 日文半角片假名 (Halfwidth Katakana)
+FFA0-FFDC 朝鲜文半角字母 (Halfwidth Jamo)
+FFF0-FFFF 特殊 (Specials)

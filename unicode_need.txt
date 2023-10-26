@@ -1,0 +1,67 @@
+0020-007F 基本拉丁文 (Basic Latin)
+00A0-00FF 拉丁文补充 1 (Latin 1 Supplement)
+0100-017F 拉丁文扩展-A (Latin Extended-A) [欧洲]
+0180-024F 拉丁文扩展-B (Latin Extended-B) [欧洲]
+0250-02AF 国际音标扩展 (IPA Extensions) [欧洲]
+02B0-02FF 空白修饰字母 (Spacing Modifiers) [欧洲]
+0300-036F 组合变音符号 (Combining Diacritical Marks) [欧洲]
+0370-03FF 希腊文及科普特文 (Greek and Coptic) [欧洲]
+03E2-03EF 在希腊语块的科普特文 (Coptic in Greek block) [非洲]
+18B0-18FF UCAS扩展 (UCAS Extended) [北美]
+1AB0-1AFF 结合变音符号扩展 (Combining Diacritical Marks Extended) [欧洲]
+1D00-1D7F 语音学扩展 (Phonetic Extensions) [欧洲]
+1D80-1DBF 语音学扩展补充 (Phonetic Extensions Supplement) [欧洲]
+1DC0-1DFF 组合变音符号补充 (Combining Diacritical Marks Supplement) [欧洲]
+1E00-1EFF 拉丁文扩展附加 (Latin Extended Additional) [欧洲]
+1F00-1FFF 希腊语扩展 (Greek Extended) [欧洲]
+2000-206F 常用标点 (General Punctuation)
+2070-209F 上标及下标 (Superscripts and Subscripts) [欧洲]
+20A0-20CF 货币符号 (Currency Symbols)
+20D0-20FF 组合符号的变音符号 (Combining Diacritical Marks for Symbols) [欧洲]
+2100-214F 字母式符号 (Letterlike Symbols)
+2150-218F 数字形式 (Number Form)
+2190-21FF 箭头 (Arrows)
+2200-22FF 数学运算符 (Mathematical Operator)
+2300-23FF 杂项工业符号 (Miscellaneous Technical)
+2400-243F 控制图片 (Control Pictures)
+2440-245F 光学识别符 (Optical Character Recognition)
+2460-24FF 封闭式字母数字 (Enclosed Alphanumerics)
+2500-257F 制表符 (Box Drawing)
+2580-259F 方块元素 (Block Element)
+25A0-25FF 几何图形 (Geometric Shapes)
+2600-26FF 杂项符号 (Miscellaneous Symbols)
+2700-27BF 印刷符号 (Dingbats)
+27C0-27EF 杂项数学符号-A (Miscellaneous Mathematical Symbols-A)
+27F0-27FF 补充箭头-A (Supplemental Arrows-A)
+2800-28FF 盲文图案 (Braille Patterns)
+2900-297F 补充箭头-B (Supplemental Arrows-B)
+2980-29FF 杂项数学符号-B (Miscellaneous Mathematical Symbols-B)
+2A00-2AFF 补充数学运算符 (Supplemental Mathematical Operator)
+2B00-2BFF 杂项符号和箭头 (Miscellaneous Symbols and Arrows)
+2C60-2C7F 拉丁文扩展-C (Latin Extended-C) [欧洲]
+2E00-2E7F 补充标点符号 (Supplemental Punctuation)
+2E80-2EFF 中日韩部首补充 (CJK Radicals Supplement)
+2F00-2FDF 康熙字典部首 (Kangxi Radicals)
+2FF0-2FFF 表意文字描述符 (Ideographic Description Characters) [东亚]
+3000-303F 中日韩符号和标点 (CJK Symbols and Punctuation)
+3100-312F 注音符号 (Bopomofo) [东亚]
+3190-319F 象形字注释标志 (Kanbun) [东亚]
+31A0-31BF 注音符号扩展 (Bopomofo Extended) [东亚]
+31C0-31EF 中日韩笔画 (CJK Strokes)
+3200-32FF 封闭式中日韩文字和月份 (Enclosed CJK Letters and Months)
+3300-33FF 中日韩兼容 (CJK Compatibility)
+3400-4DBF 中日韩统一表意文字扩展 A (CJK Unified Ideographs Extension A)
+4DC0-4DFF 易经六角符号 (Yijing Hexagram Symbols)
+4E00-9FFF 中日韩统一表意文字 (CJK Unified Ideographs)
+A700-A71F 声调修饰字母 (Modifier Tone Letters) [欧洲]
+A720-A7FF 拉丁文扩展-D (Latin Extended-D) [欧洲]
+A830-A83F 常见的印度数字形式 (Common Indic Number Forms) [南亚]
+AB30-AB6F 拉丁文扩展-E (Latin Extended-E) [欧洲]
+F900-FAFF 中日韩兼容表意文字 (CJK Compatibility Ideographs)
+FE00-FE0F 变体选择符 (Variation Selector)
+FE10-FE1F 竖排形式 (Vertical Forms)
+FE20-FE2F 组合用半符号 (Combining Half Marks) [欧洲]
+FE30-FE4F 中日韩兼容形式 (CJK Compatibility Forms)
+FE50-FE6F 小型变体形式 (Small Form Variants)
+FF00-FF5E 全角拉丁文 (Fullwidth Latin Letters) [欧洲]
+FFF0-FFFF 特殊 (Specials)

@@ -1,0 +1,104 @@
+0000-001F C0控制符 (C0 Control)
+0080-009F C1控制符 (C1 Control)
+0400-04FF 西里尔文 (Cyrillic) [欧洲]
+0500-052F 西里尔文补充 (Cyrillic Supplement) [欧洲]
+0530-058F 亚美尼亚文 (Armenian) [欧洲]
+0590-05FF 希伯来文 (Hebrew) [中东]
+0600-06FF 阿拉伯文 (Arabic) [中东]
+0700-074F 叙利亚文 (Syriac) [中东]
+0800-083F 撒玛利亚语 (Samaritan) [中东]
+0840-085F 曼底安语 (Mandaic) [中东]
+0860-086F 叙利亚文增补 (Syriac Supplement) [中东]
+0870-089F 阿拉伯文扩展-B (Arabic Extended-B) [中东]
+08A0-08FF 阿拉伯文扩展-A (Arabic Extended-A) [中东]
+0900-097F 天城文（梵文） (Devanagari) [南亚]
+0980-09FF 孟加拉语和阿萨姆语 (Bengali and Assamese) [南亚]
+0A00-0A7F 锡克教文 (Gurmukhi) [南亚]
+0A80-0AFF 古吉拉特文 (Gujarati) [南亚]
+0B00-0B7F 奥里亚文 (Oriya) [南亚]
+0B80-0BFF 泰米尔文 (Tamil) [南亚]
+0C00-0C7F 泰卢固文 (Telugu) [南亚]
+0C80-0CFF 卡纳达文 (Kannada) [南亚]
+0D00-0D7F 马拉雅拉姆语 (Malayalam) [南亚]
+0D80-0DFF 僧伽罗语 (Sinhala) [南亚]
+0E00-0E7F 泰文 (Thai) [东南亚]
+0E80-0EFF 老挝文 (Lao) [东南亚]
+0F00-0FFF 藏文 (Tibetan) [中亚]
+1000-109F 缅甸语 (Myanmar) [东南亚]
+10A0-10FF 格鲁吉亚语 (Georgian) [欧洲]
+1100-11FF 朝鲜文 (Hangul Jamo)
+1200-137F 埃塞俄比亚文 (Ethiopic) [非洲]
+1380-139F 埃塞俄比亚文补充 (Ethiopic Supplement) [非洲]
+13A0-13FF 切罗基语 (Cherokee) [北美]
+1400-167F 统一加拿大土著语音节 (Unified Canadian Aboriginal Syllabics)
+1400-167F 统一加拿大土著语音节 (Unified Canadian Aboriginal Syllabics)
+1680-169F 欧甘文 (Ogham) [欧洲]
+16A0-16FF 如尼文 (Runic) [欧洲]
+1700-171F 塔加路语 (Tagalog) [东南亚]
+1720-173F 汉努诺奥文 (Hanunoo) [东南亚]
+1740-175F 布锡文 (Buhid) [东南亚]
+1760-177F 塔格巴努亚文 (Tagbanwa) [东南亚]
+1780-17FF 高棉语 (Khmer) [东南亚]
+3040-309F 日文平假名 (Hiragana)
+30A0-30FF 日文片假名 (Katakana)
+1900-194F 林布文 (Limbu) [南亚]
+1950-197F 德宏泰文 (Tai Le) [东南亚]
+1980-19DF 新傣仂文 (New Tai Lue) [东南亚]
+19E0-19FF 高棉语符号 (Kmer Symbols) [东南亚]
+1A00-1A1F 布吉语 (Buginese) [东南亚]
+1A20-1AAF 北部泰语 (Tai Tham) [东南亚]
+A000-A48F 彝文音节 (Yi Syllables)
+A490-A4CF 彝文字根 (Yi Radicals)
+A4D0-A4FF 老傈僳文 (Lisu) [东亚]
+A500-A63F 瓦伊语 (Vai) [非洲]
+A640-A69F 西里尔文扩展-B (Cyrillic Extended-B) [欧洲]
+A6A0-A6FF 巴姆穆文 (Bamum) [非洲]
+AB70-ABBF 切罗基语补充 (Cherokee Supplement) [北美]
+ABC0-ABFF 曼尼普尔语 (Meetei Mayek) [南亚]
+AC00-D7AF 朝鲜文音节 (Hangul Syllables)
+D7B0-D7FF 朝鲜文扩展-B (Hangul Jamo Extended-B)
+D800-DBFF UTF-16高代理区 (High-half zone of UTF-16)
+DC00-DFFF UTF-16低代理区 (Low-half zone of UTF-16)
+A840-A87F 八思巴文 (Phags-pa) [中亚]
+A880-A8DF 索拉什特拉语 (Saurashtra) [南亚]
+A8E0-A8FF 天城文（梵文）扩展 (Devanagari Extended) [南亚]
+A900-A92F 克耶黎字母 (Kayah Li) [东南亚]
+A930-A95F 拉让文 (Rejang) [东南亚]
+A960-A97F 朝鲜文扩展-A (Hangul Jamo Extended-A)
+A980-A9DF 爪哇语 (Javanese) [东南亚]
+A9E0-A9FF 缅甸语扩展-B (Myanmar Extended-B) [东南亚]
+AA00-AA5F 占族语 (Cham) [东南亚]
+AA60-AA7F 缅甸语扩展-A (Myanmar Extended-A) [东南亚]
+AA80-AADF 越南泰语 (Tai Viet) [东南亚]
+AAE0-AAFF 曼尼普尔语扩展 (Meetei Mayek Extensions) [南亚]
+AB00-AB2F 埃塞俄比亚文扩展-A (Ethiopic Extended-A) [非洲]
+1B00-1B7F 巴厘语 (Balinese) [东南亚]
+1B80-1BBF 巽他语 (Sundanese) [东南亚]
+1BC0-1BFF 巴塔克语 (Batak) [东南亚]
+1C00-1C4F 雷布查语 (Lepcha) [南亚]
+0750-077F 阿拉伯文补充 (Arabic Supplement) [中东]
+0780-07BF 马尔代夫语 (Thaana) [南亚]
+07C0-07FF 西非书面语言 (N'Ko) [非洲]
+1800-18AF 蒙古文 (Mongolian) [中亚]
+1CC0-1CCF 巽他语补充 (Sundanese Supplement) [东南亚]
+31F0-31FF 日文片假名注音扩展 (Katakana Phonetic Extensions)
+2C80-2CFF 科普特文 (Coptic) [非洲]
+2D00-2D2F 格鲁吉亚语补充 (Georgian Supplement) [欧洲]
+2D30-2D7F 提非纳文 (Tifinagh)
+2D80-2DDF 埃塞俄比亚文扩展 (Ethiopic Extended) [非洲]
+2DE0-2DFF 西里尔文扩展-A (Cyrillic Extended-A) [欧洲]
+FF65-FF9F 日文半角片假名 (Halfwidth Katakana)
+FFA0-FFDC 朝鲜文半角字母 (Halfwidth Jamo)
+FB00-FB06 拉丁文连字 (Latin Ligatures) [欧洲]
+FB13-FB17 亚美尼亚文连字 (Armenian Ligatures) [欧洲]
+FB1D-FB4F 希伯来语表达形式 (Hebrew Presentation Forms) [中东]
+FB50-FDFF 阿拉伯文变形显现形式-A (Arabic Presentation Forms-A) [中东]
+2C00-2C5F 格拉哥里文 (Glagolitic) [欧洲]
+3130-318F 朝鲜文兼容字母 (Hangul Compatibility Jamo)
+E000-F8FF 私人使用区域 (Private Use Zone)
+A800-A82F SylotiNagri字母 (Syloti Nagri) [南亚]
+1CD0-1CFF 吠陀扩展 (Vedic Extensions) [南亚]
+1C90-1CBF 格鲁吉亚语扩展 (Georgian Extended) [欧洲]
+1C50-1C7F OlChiki字母 (Ol Chiki) [南亚]
+1C80-1C8F 西里尔文扩展-C (Cyrillic Extended-C) [欧洲]
+FE70-FEFF 阿拉伯文变形显现形式-B (Arabic Presentation Form-B) [中东]
