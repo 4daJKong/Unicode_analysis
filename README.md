@@ -1,4 +1,4 @@
-# unicode_analysis
+# Unicode_analysis
 Finding the Unicode range of a hex(\x\u) character
 
 Unicode uses numeric code points to represent characters, with each character having a unique code point. For example, the Latin letter "A" is represented by the Unicode code point U+0041, the Greek letter "Σ" is U+03A3, the Chinese character "你" is U+4F60, and so on.
