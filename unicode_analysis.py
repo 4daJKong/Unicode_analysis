@@ -76,5 +76,23 @@ if __name__ == "__main__":
     '''func#2
     After modifying unicode_need.txt, select the characters that are needed or not needed.'''
     divide_char_in_need(char_list)
+
+	'''func#3
+ 	Using regex to recognize you need/not need character'''
+    with open(r"unicode_cleaned_noneed.txt", encoding="utf-8") as f:
+        lines = f.read().splitlines()
+    code_range_list = []
+    for line in lines:
+        code_range, name = line[:9], line[10:]
+        code_range_list.append(code_range)
+    regex_pattern = "[" + "".join([f"\\u{start}-\\u{end}" for start, end in [range.split('-') for range in code_range_list]]) + "]"
+
+    unicode_pattern = re.compile(regex_pattern)
+
+    input_str = "hello world or other string you wanna input"
+    matches = unicode_pattern.search(input_str)
+    print(matches)
+
+   
       
   
